@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/go-ping/ping v0.0.0-20211130115550-779d1e919534
 	github.com/tejzpr/zcli/v2 v2.4.1-0.20220419172759-49b528836b11
-	github.com/tejzpr/zetools v0.0.7
+	github.com/tejzpr/zetools v1.0.0
 )
 
 require (
