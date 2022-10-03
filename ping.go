@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/tejzpr/zetools/commands"
+	"github.com/tejzpr/commands-zetools"
 
 	"github.com/go-ping/ping"
 	cli "github.com/urfave/cli/v2"
